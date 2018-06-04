@@ -15,10 +15,10 @@ It also comes with the functionality to:
 # Using the program
 
 Clone down the repo with,
-´´´
+```
 git clone https://github.com/Sykander/Put-or-Take-a-Square.git
-´´´
+```
 and run the executable,
-´´´
+```
 Put or Take.jar
-´´´
+```
